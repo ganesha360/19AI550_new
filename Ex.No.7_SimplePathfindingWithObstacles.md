@@ -1,7 +1,7 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:              
-### Name : GANESH R                                                        
-### REGISTER NUMBER : 212222240029
+### DATE: 28/04/2025            
+### Name: GANESH R                                                        
+### REGISTER NUMBER: 212222240029
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
