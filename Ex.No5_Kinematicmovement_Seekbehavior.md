@@ -1,5 +1,6 @@
 # Ex.No: 5  Implementation of Kinematic movement -seek behavior in Unity
-### DATE:                                                                            
+### DATE: 31/03/2025  
+### NAME: GANESH R
 ### REGISTER NUMBER : 212222240029
 ### AIM: 
 To write a program to simulate the process of seek behavior in Unity 
