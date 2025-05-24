@@ -1,6 +1,7 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 12/05/2025
+### NAME: GANESH R
+### REGISTER NUMBER : 212222240029
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
@@ -108,6 +109,7 @@ behaviors:
 ### Output:
 
 
+![WhatsApp Image 2025-05-19 at 13 25 53_86d1d8ad](https://github.com/user-attachments/assets/29438ed2-fb57-49f8-9f30-dd6d66e10fc0)
 
 
 
