@@ -1,5 +1,5 @@
 # Ex.No: 6  Implementation of Steering behaviour-Pursue and Evade in Unity
-### DATE:           
+### DATE: 21/04/2025          
 ### NAME: GANESH R
 ### REGISTER NUMBER : 212222240029
 ### AIM: 
