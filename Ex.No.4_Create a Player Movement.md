@@ -1,5 +1,5 @@
 # Ex.No: 4  Create a player Movement Script in unity 
-### DATE:     
+### DATE: 24/03/2025
 ### NAME: GANESH R
 ### REGISTER NUMBER : 212222240029
 ### AIM: 
